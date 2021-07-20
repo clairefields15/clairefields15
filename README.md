@@ -46,3 +46,8 @@ Here are some ideas to get you started:
     </tr>
 </table>
 
+
+## Stats
+
+![Claire's GitHub stats](https://github-readme-stats.vercel.app/api?username=clairefields15&show_icons=true&theme=radical)
+
