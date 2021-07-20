@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=novaraptur&repo=rancid-tomatillos&theme=tokyonight)](https://github.com/novaraptur/rancid-tomatillos)
 
+## 🔭 I’m currently working on ...
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clairefields15&repo=sippin-pretty&theme=tokyonight)](https://github.com/clairefields15/sippin-pretty)
 
 ## Technologies I Work With
  <table>
