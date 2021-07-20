@@ -16,6 +16,11 @@ Here are some ideas to get you started:
 -->
 
 
+## Projects I am proud of! 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clairefields15&repo=overlook-hotel)](https://github.com/clairefields15/overlook-hotel)
+
+
+
 ## Technologies I Work With
  <table>
     <tr>
