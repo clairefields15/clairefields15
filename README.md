@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 ## Projects I am proud of! 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clairefields15&repo=overlook-hotel&theme=tokyonight)](https://github.com/clairefields15/overlook-hotel)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=novaraptur&repo=rancid-tomatillos&theme=tokyonight)](https://github.com/novaraptur/rancid-tomatillos)
+
 
 
 ## Technologies I Work With
