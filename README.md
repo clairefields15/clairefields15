@@ -18,6 +18,9 @@ Here are some ideas to get you started:
 
 ## Projects I am proud of! 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hivemindapp&repo=hivemind-frontend&theme=tokyonight)](https://github.com/hivemindapp/hivemind-frontend)
+
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clairefields15&repo=cyoa&theme=tokyonight)](https://github.com/clairefields15/cyoa)
 
 
