@@ -34,9 +34,9 @@ Here are some ideas to get you started:
 
 ## 🔭 I’m currently working on ...
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clairefields15&repo=cyoa&theme=tokyonight)](https://github.com/clairefields15/cyoa)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clairefields15&repo=news-app&theme=tokyonight)](https://github.com/clairefields15/news-app
+)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clairefields15&repo=sippin-pretty&theme=tokyonight)](https://github.com/clairefields15/sippin-pretty)
 
 ## Technologies I Work With
  <table>
