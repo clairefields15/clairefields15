@@ -14,9 +14,37 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Technologies I Work With
+ <section align='center'>
+     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
+     <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+     <img src="https://img.shields.io/badge/react_router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" />
+     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+     <img src="https://img.shields.io/badge/Sass-%23CC6699.svg?style=for-the-badge&logo=sass&logoColor=white" />
+     <img src="https://img.shields.io/badge/LESS-%231D365D.svg?style=for-the-badge&logo=less&logoColor=white" />
+     <img src="https://img.shields.io/badge/ASP.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" />
+     <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
+ </section>
 
+ ## Workflow And Collaboration Tooling
+ <section align="center">
+     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
+     <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+     <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+     <img src="https://img.shields.io/badge/trello-%23026AA7.svg?style=for-the-badge&logo=trello&logoColor=white" />
+     <img src="https://img.shields.io/badge/zoom-%232D8CFF.svg?style=for-the-badge&logo=zoom&logoColor=white" />
+     <img src="https://img.shields.io/badge/slack-%234A154B.svg?style=for-the-badge&logo=slack&logoColor=white" />
+     <img src="https://img.shields.io/badge/microsoft%20teams-%237575F0.svg?style=for-the-badge&logo=microsoftteams&logoColor=white" />
+     <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
+     <img src="https://img.shields.io/badge/miro-%23FFD02F.svg?style=for-the-badge&logo=miro&logoColor=050038" />
+     <img src="https://img.shields.io/badge/excalidraw-%23000000.svg?style=for-the-badge&logo=excalidraw&logoColor=white" />
+     <img src="https://img.shields.io/badge/photoshop-%2300C8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
+     <img src="https://img.shields.io/badge/procreate-%233D3D3D.svg?style=for-the-badge&logo=procreate&logoColor=white" />
+ </section>
 
-## Projects I am proud of! 
+## Projects from Turing! 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hivemindapp&repo=hivemind-frontend&theme=tokyonight)](https://github.com/hivemindapp/hivemind-frontend)
 
@@ -28,29 +56,6 @@ Here are some ideas to get you started:
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=novaraptur&repo=rancid-tomatillos&theme=tokyonight)](https://github.com/novaraptur/rancid-tomatillos)
-
-## 🔭 I’m currently working on ...
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=clairefields15&repo=news-app&theme=tokyonight)](https://github.com/clairefields15/news-app
-)
-
-
-## Technologies I Work With
- <p align='center'>
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white" />
-  <img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e" />
-  <img src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white" />
-  <img src="https://img.shields.io/badge/CIRCLECI-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white" />
-  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql" />
-  
-</p>
 
 
 ## Stats
