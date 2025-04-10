@@ -21,7 +21,7 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
      <img src="https://img.shields.io/badge/ASP.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white" />
      <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
-     <img src="https://img.shields.io/badge/TanStack%20Query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white" />
+     <img src="https://img.shields.io/badge/React%20Query-%23FF4154.svg?style=for-the-badge&logo=react-query&logoColor=white" />
      <img src="https://img.shields.io/badge/react_router-%23CA4245.svg?style=for-the-badge&logo=react-router&logoColor=white" />
      <img src="https://img.shields.io/badge/Material--UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
